@@ -1,1 +1,1 @@
-Your files have been uploaded successfully
+Checking how to upload files on github
